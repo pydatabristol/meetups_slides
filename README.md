@@ -8,7 +8,7 @@ Links:
 ## Past meetups
 
 You can find schedules, slides and recordings of previous events below.
-- [29th PyData Bristol meetup June 2025](./meetup_2025_06)
+- [29th PyData Bristol meetup June 2025](./2025_06_meetup)
 - [Old meetups repo](https://github.com/pydatabristol/meetups)
 
 ## What we are about
